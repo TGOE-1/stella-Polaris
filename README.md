@@ -44,9 +44,9 @@
 - 需要先下载Keil 5与stc-isp两款软件，才能进行程序烧录
 - 点击这里访问[教程](https://www.bilibili.com/video/BV1Mb411e7re/?spm_id_from=333.337.search-card.all.click&vd_source=6fab490cb0a2845d28aa2ad7d5a10c4b)。
 
-- 点击这里下载软件[软件](https://jiangxiekeji.com/download.html)。
+- 点击这里下载[软件](https://jiangxiekeji.com/download.html)。
   
-- 将磁化后的针**水平**穿过浮台材料
+- 点击这里下载[程序]()。
 
 ### 3. 组装与调试
 - 将浮台轻轻放入盛有水的碗中
