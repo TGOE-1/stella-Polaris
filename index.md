@@ -82,8 +82,7 @@ BLK|T0
  RXD|TXD  
 
 以下是示例图
-![s7](./picture/step7.png)
-![s8](./picture/step8.jpg)
+![s7](./picture/step7.png)![s8](./picture/step8.png)
    
 
 5. 放置电阻，用于拉高电平。电阻无方向。连接方式如下表：
