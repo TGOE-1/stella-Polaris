@@ -46,7 +46,7 @@
 
 - 连接单片机的VCC引脚与电源区正极、单片机VSS引脚与电源区负极
   
-![s2-2](./picture/step2-2.png)
+![s2-2](./picture/step2-2.jpg)
 
 ### 元器件的安装
 
