@@ -73,7 +73,7 @@ SDA|单片机P1.1
 |:---:|:---:|
 GND|面包板阴极
 VCC|面包板阳极
-SCL|RST
+SCL|P1.7
 SDA|P1.5
 RES|T1
 DC|P1.2
