@@ -136,9 +136,14 @@ BLK|T0
 
 ![stc5](./picture/stc5.png)
 
+- 如果一直在查找单片机，请检查单片机型号与串口号是否正确，单片机是否冷启动
+
+![stc7](./picture/stc7.png)
+
+
 - 右下角如图所示代表程序烧录成功
 
-  ![stc6](./picture/stc6.png)
+![stc6](./picture/stc6.png)
 
 
 
