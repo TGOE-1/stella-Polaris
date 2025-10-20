@@ -128,7 +128,7 @@ BLK|T0
 
 ### 开始烧录
 
-- 点击stc软件。
+- 点击stc软件，弹框直接点确定。
    
 ![stc1](./picture/stc1.png)
 
