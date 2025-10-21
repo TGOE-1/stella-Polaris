@@ -33,13 +33,13 @@
 
 本教程旨在教会你完成一个基于微控制器和磁力计传感器的电子指南针制作项目。它通过电子元件替代传统罗盘的磁针，实时检测地球磁场并计算方向，最终将角度与方位信息显示在LCD屏幕
 
-![s1](./picture/show1.jpg)
+![s1](./picture/show1.jpg)  
+/*这是最终成果图*/
 
-![s1](./picture/show2.jpg)
 
-![s1](./picture/show3.jpg)
+![s1](./picture/show2.jpg)  
+/*显示屏会文字显示目前所指的角度，红点代表目前朝向*/
 
-![s1](./picture/show4.jpg)
 
 
 
