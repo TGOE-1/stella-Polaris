@@ -194,11 +194,9 @@ DC|P1.2
 CS|P1.3
 BLK|T0
 
-![连接图](./picture/端子线连接.png)
+![连接图](./picture/端子线连接.png)![显示器实物](./picture/显示器实物连接图.jpg)
 
-![显示器实物](./picture/显示器实物连接图.jpg)![s6](./picture/step6.png)
-
-![s6-2](./picture/step6-2.png)
+![s6](./picture/step6.png)![s6-2](./picture/step6-2.png)
 
 由于之前已经烧录过程序，此时接通电源，应该能看见“45° 东北”字样，此时证明屏幕连接正确。
 
