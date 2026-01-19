@@ -138,7 +138,7 @@ TXD引脚负责输出数据，RXD引脚负责输入数据，故应将不同元�
  RXD|TXD  
 
 
-![s7](./picture/step7.png)![s8](./picture/step8.png)
+![s7](./picture/step7.png)![s8](./picture/step8.png)![s8-2](./picture/step8-2.png)
 
 
 ### 2.烧录程序与检验最小系统电路板
