@@ -217,7 +217,7 @@ SDA|单片机P1.1
 
 ![s3](./picture/step3.jpg)
 ![s4](./picture/step5.png)
-![s5](./picture/step4.jpg)
+![s5](./picture/step4.png)
 
 接通电源，屏幕上的方位如果能随着你的磁传感指向变动而变动，说明你的整个指南针电路搭建没问题。
 
